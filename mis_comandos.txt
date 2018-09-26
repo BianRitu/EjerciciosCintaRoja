@@ -1,0 +1,14 @@
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f>mkdir appSuperM
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f>cd appSuperM
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>npm init
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>npm install express --save
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>node index.js
+App listening on port 3000!
+^C
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>npm install express-generator -g
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>express -h
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>npm install mongoose
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>npm install body-parser
+C:\Users\BIANCAVIANEYPRADOMER\Documents\Dev_f\appSuperM>node index.js
+App listening on port 3000!
+conectada a DB

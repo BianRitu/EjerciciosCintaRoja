@@ -1,0 +1,11 @@
+{
+  "name": "programitas",
+  "version": "1.0.0",
+  "description": "mis__programitas",
+  "main": "programitas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

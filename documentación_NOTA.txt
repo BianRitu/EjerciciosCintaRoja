@@ -1,0 +1,5 @@
+view.js
+query params --> queries
+/:id/ definir una variable dentro de mi URL
+
+npm install 

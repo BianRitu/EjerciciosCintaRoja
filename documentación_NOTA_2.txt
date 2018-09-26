@@ -1,0 +1,4 @@
+URI URL
+npm init --yes 
+i = install 
+
